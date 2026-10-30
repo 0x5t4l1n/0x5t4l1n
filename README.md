@@ -3,6 +3,10 @@
     <img src="https://img.shields.io/badge/Gitea-0x5t4l1n-39ff14?style=for-the-badge&logo=gitea&logoColor=black" />
   </a>
 
+  <a href="https://chat.w4nn4d13.tech">
+    <img src="https://img.shields.io/badge/IRC-0x5t4l1n-7289da?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+
   <a href="https://aur.archlinux.org/account/5t4l1n">
     <img src="https://img.shields.io/badge/AUR-5t4l1n-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </a>
