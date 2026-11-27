@@ -1,25 +1,3 @@
 <p align="center">
-<a href="https://chat.w4nn4d13.tech">
-    <img src="https://img.shields.io/badge/IRC-0x5t4l1n-7289da?style=for-the-badge&logo=wechat&logoColor=white" />
-  </a>
-
-  <a href="https://aur.archlinux.org/account/5t4l1n">
-    <img src="https://img.shields.io/badge/AUR-5t4l1n-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  </a>
-
-  <a href="https://gitlab.archlinux.org/5t4l1n">
-    <img src="https://img.shields.io/badge/GitLab-5t4l1n-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-
-  <a href="https://forge.fedoraproject.org/5t4l1n">
-    <img src="https://img.shields.io/badge/Fedora_Forge-5t4l1n-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  </a>
+  <img src="./assets/alpineflow.svg" width="100%" alt="Animated alpine landscape"/>
 </p>
-
-<div align="center">
-  <a href="https://github.com/marketplace/actions/mysticflow-wallpaper">
-    <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
-         width="90%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
-  </a>
-</div>
-
