@@ -1,5 +1,7 @@
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
+       width="100%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
+</p>
 
   <a href="https://chat.w4nn4d13.tech">
     <img src="https://img.shields.io/badge/IRC-0x5t4l1n-7289da?style=for-the-badge&logo=wechat&logoColor=white" />
