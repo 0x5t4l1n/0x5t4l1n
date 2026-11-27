@@ -17,7 +17,9 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
-       width="90%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
+  <a href="https://github.com/marketplace/actions/mysticflow-wallpaper">
+    <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
+         width="90%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
+  </a>
 </div>
 
