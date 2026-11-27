@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
-       width="90%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
-</div>
-
   <a href="https://chat.w4nn4d13.tech">
     <img src="https://img.shields.io/badge/IRC-0x5t4l1n-7289da?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
@@ -19,3 +14,9 @@
     <img src="https://img.shields.io/badge/Fedora_Forge-5t4l1n-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0x5t4l1n/MysticFlow/main/assets/mysticflow.svg"
+       width="90%" alt="MysticFlow — Moonlit valley with a flowing waterfall and wooden skiff">
+</div>
+
